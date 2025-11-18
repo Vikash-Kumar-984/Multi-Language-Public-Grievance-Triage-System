@@ -7,7 +7,7 @@ This project was built for the Google Cloud & Blog Competition.
 
 ### Live Demo
 
-**(Link to your live Firebase app: (`[https://civic-issue-reporter-248736505026.us-west1.run.app/`)**
+**(Link to your live Firebase app: (`https://civic-issue-reporter-248736505026.us-west1.run.app/`)**
 
 ## 1. The Problem Statement
 
